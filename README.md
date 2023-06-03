@@ -5,7 +5,7 @@
 - 📫 How to reach me: my mail adress : pradouratitouan@proton.me
 
 
-ttps://img.shields.io/badge/<Python>-<Learning>-<yellow>
+https://img.shields.io/badge/<Python>-<Learning>-<yellow>
 <!---
 Kaiwinta/Kaiwinta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
