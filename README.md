@@ -24,7 +24,7 @@
     <img src="https://komarev.com/ghpvc/?username=Kaiwinta&style=flat-square&color=blue" alt=""/>
   </div>
  </div>
-
+I have none of them but its funny to put that here and my view are moslty myself watching my profile
 <!---
 Kaiwinta/Kaiwinta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
