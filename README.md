@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kaiwinta
-- 👀 I’m interested in Programmation and developpement
-- 🌱 I’m currently 17 and I know python and have basis in C, C++, SQL, HTML, CSS and some more
-- 💞️ I prefer C and python 
-- 📫 How to reach me: my mail adress : pradouratitouan@proton.me
+-  Hi, I’m @Kaiwinta
+-  I’m interested in Programmation and developpement
+-  I’m currently 17 and I know python and have basis in C, C++, SQL, HTML, CSS and some more
+-  I prefer C and python 
+-  How to reach me: my mail adress : pradouratitouan@proton.me
 
 
 <div id="visual" align="center">
