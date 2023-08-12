@@ -1,6 +1,7 @@
 -  Hi, I’m @Kaiwinta
 -  I’m interested in Programmation and developpement
 -  I’m currently 17 and I know python and have basis in C, C++, SQL, HTML, CSS and some more
+-I'm trying to improve my code every time and to search for new function() 
 -  I prefer C and python
 -  Here are some basic projekt and some course that i follow. Nothing special it help me track my code and share it. 
 -  How to reach me: my mail adress : pradouratitouan@proton.me
