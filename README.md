@@ -9,7 +9,7 @@
 
 <div id="visual" align="center">
   <div>
-    <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="1000"/>
+    <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="1000"/>
   </div>
   <div id="badges">
     <a href="your-linkedin-URL">
