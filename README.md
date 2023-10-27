@@ -9,7 +9,7 @@
 
 <div id="visual" align="center">
   <div>
-    <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" width="1000"/>
+    <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="1000"/>
   </div>
   <div id="badges">
     <a href="your-linkedin-URL">
