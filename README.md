@@ -44,8 +44,6 @@
   <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiwinta&show_icons=true&locale=en" alt="kaiwinta" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwinta&" alt="kaiwinta" /></div>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/titouan-pradoura-9244472a7/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       <img src="https://komarev.com/ghpvc/?username=Kaiwinta&style=flat-square&color=blue" alt=""/>
     </a>
   </div>
