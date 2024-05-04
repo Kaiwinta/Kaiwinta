@@ -41,9 +41,9 @@
   <div>
     <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="1000"/>
   </div>
-  <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaiwinta&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="kaiwinta" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaiwinta&theme=prussian&hide_border=true" alt="kaiwinta" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiwinta&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="kaiwinta"/></div>
+  <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaiwinta&theme=prussian&hide_border=true" alt="kaiwinta" /></div>
+  <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaiwinta&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="kaiwinta" /></div>
+  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiwinta&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="kaiwinta"/></div>
   <div id="badges">
       <img src="https://komarev.com/ghpvc/?username=Kaiwinta&style=flat-square&color=blue" alt=""/>
     </a>
