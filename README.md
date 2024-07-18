@@ -4,6 +4,8 @@
 - **Age:** 18
 - **Current Status:** First year at Epitech
 
+<a align='center' href="https://stackoverflow.com/users/22216622/kaiwinta"><img src="https://stackoverflow.com/users/flair/22216622.png?theme=dark" width="208" height="58" alt="profile for Kaiwinta at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kaiwinta at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ></a>
+
 ## 🌐 Well-known Languages and Tools
 
 | Language/Tool | Badge | Description |
