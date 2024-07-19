@@ -1,53 +1,74 @@
-# @Kaiwinta's Profile
+<br clear="both">
 
-- **Name:** @Kaiwinta
-- **Age:** 18
-- **Current Status:** First year at Epitech
+<h2 align="left">Hi 👋! My name is Kaiwinta and I'm a Student at Epitech</h2>
 
-<a align='center' href="https://stackoverflow.com/users/22216622/kaiwinta"><img src="https://stackoverflow.com/users/flair/22216622.png?theme=dark" width="208" height="58" alt="profile for Kaiwinta at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Kaiwinta at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ></a>
+###
 
-## 🌐 Well-known Languages and Tools
-
-| Language/Tool | Badge | Description |
-|---------------|-------|-------------|
-| Python        | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | Python programming language |
-| C             | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | C programming language |
-| SQL           | ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) | SQLite database |
-
-## ⚙️ Used Languages and Tools
-
-| Language/Tool | Badge | Description |
-|---------------|-------|-------------|
-| Ruby          | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) | Ruby programming language |
-| C++           | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | C++ programming language |
-| Xamarin       | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white) | Xamarin mobile app development |
-| C#            | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) | C# programming language |
-| HTML          | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | HyperText Markup Language |
-| CSS           | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Cascading Style Sheets |
-| Json          | ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) | JavaScript Object Notation |
-| Numpy         | ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) | Numerical Python library |
-| Fedora        | ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) | Fedora operating system |
-| Ubuntu        | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | Ubuntu operating system |
-| Linux         | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Linux operating system |
-| Windows       | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | Microsoft Windows operating system |
-
-## Projects and Courses
-
-- Basic projects and courses tracked for coding and sharing.
-
-## Contact Information
-
-- **Email:** titouan.pradoura@epitech.eu
-
-<div id="visual" align="center">
-  <div>
-    <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="1000"/>
-  </div>
-  <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaiwinta&theme=prussian&hide_border=true" alt="kaiwinta" /></div>
-  <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaiwinta&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="kaiwinta" /></div>
-  <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiwinta&theme=prussian&show_icons=true&hide_border=true&layout=compact" alt="kaiwinta"/></div>
-  <div id="badges">
-      <img src="https://komarev.com/ghpvc/?username=Kaiwinta&style=flat-square&color=blue" alt=""/>
-    </a>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaiwinta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaiwinta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/vTLSOH9jOgM12/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="30" alt="xamarin logo"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Kaiwinta/Kaiwinta/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
