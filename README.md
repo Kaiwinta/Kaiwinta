@@ -43,15 +43,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/Kaiwinta/Kaiwinta/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
