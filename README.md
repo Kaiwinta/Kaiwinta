@@ -2,6 +2,8 @@
 
 <h2 align="left">Hi 👋! My name is Kaiwinta and I'm a Student at Epitech</h2>
 
+Currently in Epitech Strasbourg I am trying to improve my workflows
+
 ###
 
 <div align="center">
