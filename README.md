@@ -4,6 +4,10 @@
 
 Currently in Epitech Strasbourg I am trying to improve my workflows
 
+I like to learn new things and enjoy hardware a lot.
+
+I wish I could do more Iot next year.
+
 ###
 
 <div align="center">
