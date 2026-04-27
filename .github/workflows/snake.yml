@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: Test Kaiwinta extentsion
-        uses: Kaiwinta/Github-User-Language-Stats@v0.3
+        uses: Kaiwinta/Github-User-Language-Stats@v0.4
         with:
           token: ${{ github.repository_owner }}
   
